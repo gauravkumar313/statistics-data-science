@@ -11,5 +11,3 @@
 * 6. Comparative Statistcs
 * 7. AB Testing
 
-Reach me out, If any Query or Doubts
-Contact me on Linkedin
